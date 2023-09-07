@@ -7,8 +7,8 @@ MSc Computer Science student with a background in Product Development and Design
 * ✉️  You can contact me at [finbar.allan@ucdconnect.ie](mailto:finbar.allan@ucdconnect.ie)
 * 🚀  I'm currently working on [building my portfolio](http://github.com/finbarallan)
 * 🧠  I'm learning Java, Python, C, HTML, CSS, PHP and JavaScript
-[//]: <> (* 🤝  I'm open to collaborating on Web App Development)
-[//]: <> (* ⚡  Represent UCD Athletics in 4 x 1600m Realy)
+<!--- 🤝  I'm open to collaborating on Web App Development) --->
+<!--- ⚡  Represent UCD Athletics in 4 x 1600m Realy) --->
 
 ### Skills
 
