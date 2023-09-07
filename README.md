@@ -7,11 +7,10 @@ MSc Computer Science student with a background in Product Development and Design
 * ✉️  You can contact me at [finbar.allan@ucdconnect.ie](mailto:finbar.allan@ucdconnect.ie)
 * 🚀  I'm currently working on [building my portfolio](http://github.com/finbarallan)
 * 🧠  I'm learning Java, Python, C, HTML, CSS, PHP and JavaScript
-* 🤝  I'm open to collaborating on Web App Development
-* ⚡  Represent UCD Athletics in 4 x 1600m Realy
+<! -- * 🤝  I'm open to collaborating on Web App Development --> 
+<! -- * ⚡  Represent UCD Athletics in 4 x 1600m Realy --> 
 
 ### Skills
-
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
