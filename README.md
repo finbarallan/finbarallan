@@ -1,9 +1,6 @@
 Hi 👋 My name is Finbar Allan
 =============================
 
-Designer. Engineer. Developer.
-------------------------------
-
 MSc Computer Science student with a background in Product Development and Design Engineering.
 
 * 🌍  I'm based in Dublin, Ireland.
